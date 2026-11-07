@@ -1,24 +1,28 @@
  <div align="center">
 
+<img src="https://github.com/ajeem-suban.png" width="160" alt="Ajeem Suban profile photo" />
+
 # AJEEM SUBAN
 
 ### AI & DATA SCIENCE DEVELOPER
 
-*Building practical AI systems and intelligent applications.*
+**Building intelligent systems. Exploring what's next.**
 
-[Portfolio](https://ajeem-suban.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ajeem-suban/) · [Hugging Face](https://huggingface.co/AJEEM-SUBAN)
+[🌐 Portfolio](https://ajeem-suban.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/ajeem-suban/) · [🤗 Hugging Face](https://huggingface.co/AJEEM-SUBAN) · [🐙 GitHub](https://github.com/ajeem-suban)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ajeem-suban&style=flat-square&color=2563eb&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01 / ABOUT ME`
 
-I'm **Ajeem Suban**, a third-year B.Tech Artificial Intelligence and Data Science student at Dhanalakshmi Srinivasan University, graduating in 2028.
+I'm **Ajeem Suban**, a B.Tech Artificial Intelligence and Data Science student at **Dhanalakshmi Srinivasan University**, graduating in 2028.
 
-I enjoy building practical software systems that combine AI, machine learning, automation, and full-stack development.
+I build practical software systems that combine artificial intelligence, machine learning, automation, and full-stack engineering.
 
-My current areas of interest include:
+My technical interests include:
 
 - Artificial Intelligence and Machine Learning
 - Retrieval-Augmented Generation (RAG)
@@ -27,124 +31,127 @@ My current areas of interest include:
 - Computer Vision
 - Intelligent Software Engineering Systems
 
-I focus on understanding how systems work, building them from the ground up, and improving them through practical experimentation.
+I enjoy understanding how systems work, building them from the ground up, and improving them through practical experimentation.
 
 ---
 
-## 🚀 Featured Projects
+## `02 / SELECTED PROJECTS`
 
-### 1. [TAMIL-AI.ME](https://github.com/ajeem-suban/Project-TAMIL-AI.ME)
+A selection of projects I'm building and experimenting with.
 
-**AI-powered Tamil literature intelligence platform**
+### 🏛️ [TAMIL-AI.ME](https://github.com/ajeem-suban/Project-TAMIL-AI.ME)
 
-A Tamil-first platform for semantic search, Tamil-English translation, and document OCR. Uses retrieval-based architecture to keep original literary sources separate from AI-generated explanations.
+**Tamil Literature Intelligence Platform**
+
+A Tamil-first platform for semantic search across classical Tamil literature, Tamil-English translation, and document OCR through its KalVettu module. Uses retrieval-grounded results to keep original source content separate from AI-generated explanations.
 
 `Python` `FastAPI` `React` `ChromaDB` `IndicTrans2`
 
-### 2. [AIRES — AI Intelligent Emergency Response System](https://github.com/ajeem-suban/AIRES-AI)
+### 🚑 [AIRES — Intelligent Emergency Response System](https://github.com/ajeem-suban/AIRES-AI)
 
-**AI-powered emergency dispatch and ambulance routing**
+**AI-Powered Emergency Dispatch & Ambulance Routing**
 
-An emergency response decision-support system featuring real-road routing, hospital selection, disruption simulation, and real-time route updates through WebSockets.
+An emergency response decision-support system using real Trichy OpenStreetMap road data. Includes ambulance routing, hospital selection, simulated disruptions, and live route updates through WebSockets.
 
 `Python` `FastAPI` `WebSocket` `OpenStreetMap`
 
-### 3. [ROGERS](https://github.com/ajeem-suban/ROGERS)
+### 🛡️ [ROGERS](https://github.com/ajeem-suban/ROGERS)
 
 **AI Student Project Orchestrator**
 
-An AI-powered software engineering platform designed to help students transform project ideas into structured, tested software through research, planning, implementation, and verification.
+An AI-powered software engineering platform designed to help students transform project ideas into structured software. It supports research, requirements, architecture, implementation, testing, debugging, and human approval workflows.
+
+*Actively under development.*
 
 `Python` `FastAPI` `React` `TypeScript` `AI Agents`
 
-### 4. [SECRAIN](https://github.com/ajeem-suban/SECRAIN)
+### 🧠 [SECRAIN](https://github.com/ajeem-suban/SECRAIN)
 
-**Local-First AI Productivity and Knowledge Management**
+**Local-First AI Productivity & Knowledge Management**
 
-A personal second-brain system combining AI chat, persistent conversations, notes, and intelligent retrieval with local AI integration.
+A personal second-brain platform combining AI chat, persistent conversations, notes, and intelligent note retrieval with local AI integration through Ollama.
 
 `Python` `FastAPI` `React` `SQLite` `Ollama`
 
-### 5. [CULLINAN](https://github.com/ajeem-suban/cullinan-ai)
+### ◆ [CULLINAN](https://github.com/ajeem-suban/cullinan-ai)
 
-**Privacy-conscious Local AI and Computer Vision**
+**Local AI & Computer Vision Experiments**
 
-An experimental local AI project focused on facial analysis, face detection, embedding extraction, and identity-comparison utilities.
+An experimental privacy-conscious project focused on facial analysis, face detection, facial embedding extraction, and identity-comparison utilities. Personalized image generation remains a future goal.
+
+*Real-world recognition accuracy is not yet validated.*
 
 `Python` `InsightFace` `ONNX Runtime` `OpenCV` `NumPy`
 
-### 6. [TITAN ASSISTANT](https://github.com/ajeem-suban/TITAN-ASSISTANT)
+### 🎙️ [TITAN ASSISTANT](https://github.com/ajeem-suban/TITAN-ASSISTANT)
 
-**Voice-First Personal AI Assistant**
+**Voice-First Personal Assistant**
 
-A voice-first assistant combining speech recognition, deterministic command routing, and LLM fallback for intelligent interactions.
+A voice-first assistant that uses speech recognition, deterministic command routing, and LLM fallback for open-ended interactions. Core command paths are designed to remain useful without requiring every request to go through an LLM.
 
-`Python` `faster-whisper` `WebRTC VAD` `LLM`
+`Python` `faster-whisper` `WebRTC VAD` `Groq` `pyttsx3`
 
 ---
 
-## 🛠️ Technologies & Tools
+## `03 / TECHNOLOGY STACK`
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **AI & Machine Learning**
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
 
 **Backend & Frontend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Developer Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📊 GitHub Statistics
+## `04 / CURRENT FOCUS`
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ajeem-suban&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ajeem-suban&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+- Developing ROGERS into a capable AI software engineering orchestrator.
+- Improving Tamil semantic search and language technology through TAMIL-AI.ME.
+- Exploring local AI, computer vision, and personalized AI systems.
+- Strengthening practical AI/ML engineering and software development skills.
 
 ---
 
-## 🎓 Education
+## `05 / EDUCATION`
 
 **B.Tech — Artificial Intelligence and Data Science**
 
 Dhanalakshmi Srinivasan University
 
-2025 – 2028
+Expected Graduation: **2028**
 
 ---
 
-## 🤝 Let's Connect
+## `06 / LET'S CONNECT`
 
-I'm interested in AI/ML engineering, building useful AI products, and collaborating on meaningful technical projects.
-
-- 🌐 **Portfolio:** https://ajeem-suban.vercel.app
-- 💼 **LinkedIn:** https://www.linkedin.com/in/ajeem-suban/
-- 🤗 **Hugging Face:** https://huggingface.co/AJEEM-SUBAN
-- 🐙 **GitHub:** https://github.com/ajeem-suban
-
----
+Interested in AI/ML engineering, useful AI products, open-source development, and meaningful technical collaborations.
 
 <div align="center">
 
-**Building. Learning. Experimenting. Improving.**
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://ajeem-suban.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeem-suban/)
+[![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-Explore-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/AJEEM-SUBAN)
+
+**BUILDING · LEARNING · EXPERIMENTING · IMPROVING**
 
 *One system at a time.*
 

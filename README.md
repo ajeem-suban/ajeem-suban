@@ -114,15 +114,10 @@ A voice-first assistant combining speech recognition, deterministic command rout
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ajeem-suban&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeem-suban&layout=compact&theme=github_dark&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=ajeem-suban&theme=github-dark-blue&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=ajeem-suban&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ajeem-suban&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 

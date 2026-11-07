@@ -1,158 +1,185 @@
  <div align="center">
 
-<img src="https://github.com/ajeem-suban.png" width="160" alt="Ajeem Suban profile photo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,45:312e81,100:0891b2&text=AJEEM%20SUBAN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20DEVELOPER&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Ajeem Suban banner"/>
 
-# AJEEM SUBAN
+</div>
 
-### AI & DATA SCIENCE DEVELOPER
+<div align="center">
 
-**Building intelligent systems. Exploring what's next.**
+### BUILDING INTELLIGENT SYSTEMS. EXPLORING WHAT'S NEXT.
 
-[🌐 Portfolio](https://ajeem-suban.vercel.app/) · [💼 LinkedIn](https://www.linkedin.com/in/ajeem-suban/) · [🤗 Hugging Face](https://huggingface.co/AJEEM-SUBAN) · [🐙 GitHub](https://github.com/ajeem-suban)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ajeem-suban&style=flat-square&color=2563eb&label=PROFILE+VIEWS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://ajeem-suban.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeem-suban/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Explore-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/AJEEM-SUBAN)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajeem-suban)
 
 </div>
 
 ---
 
-## `01 / ABOUT ME`
+## 👨‍💻 WHO AM I?
+
+<img align="right" src="./assets/profile-photo.png" width="210" alt="Ajeem Suban — profile portrait"/>
 
 I'm **Ajeem Suban**, a B.Tech Artificial Intelligence and Data Science student at **Dhanalakshmi Srinivasan University**, graduating in 2028.
 
-I build practical software systems that combine artificial intelligence, machine learning, automation, and full-stack engineering.
+I enjoy building practical AI systems, experimenting with emerging technologies, and turning technical ideas into usable software.
 
-My technical interests include:
+- 🧠 Exploring AI, Machine Learning and RAG
+- 🤖 Building AI agents and intelligent applications
+- 🔒 Interested in local-first and privacy-conscious AI
+- 👁️ Exploring computer vision
+- ⚙️ Developing software engineering automation systems
 
-- Artificial Intelligence and Machine Learning
-- Retrieval-Augmented Generation (RAG)
-- AI Agents and Multi-Agent Systems
-- Local and Privacy-Focused AI
-- Computer Vision
-- Intelligent Software Engineering Systems
-
-I enjoy understanding how systems work, building them from the ground up, and improving them through practical experimentation.
+<br clear="right"/>
 
 ---
 
-## `02 / SELECTED PROJECTS`
+## 🚀 PROJECT UNIVERSE
 
-A selection of projects I'm building and experimenting with.
+_Different ideas. Different challenges. One continuous journey of building._
 
-### 🏛️ [TAMIL-AI.ME](https://github.com/ajeem-suban/Project-TAMIL-AI.ME)
+### <img src="https://img.shields.io/badge/01-TAMIL--AI.ME-0D9488?style=for-the-badge&logo=bookstack&logoColor=white" alt="TAMIL-AI.ME"/>
 
 **Tamil Literature Intelligence Platform**
 
-A Tamil-first platform for semantic search across classical Tamil literature, Tamil-English translation, and document OCR through its KalVettu module. Uses retrieval-grounded results to keep original source content separate from AI-generated explanations.
+A Tamil-first platform for semantic search across classical Tamil literature, translation, and document OCR through its KalVettu module. It uses retrieval-grounded results to connect users with source material.
 
 `Python` `FastAPI` `React` `ChromaDB` `IndicTrans2`
 
-### 🚑 [AIRES — Intelligent Emergency Response System](https://github.com/ajeem-suban/AIRES-AI)
+[↗ Explore TAMIL-AI.ME](https://github.com/ajeem-suban/Project-TAMIL-AI.ME)
 
-**AI-Powered Emergency Dispatch & Ambulance Routing**
+---
 
-An emergency response decision-support system using real Trichy OpenStreetMap road data. Includes ambulance routing, hospital selection, simulated disruptions, and live route updates through WebSockets.
+### <img src="https://img.shields.io/badge/02-AIRES--AI-EF4444?style=for-the-badge&logo=ambulance&logoColor=white" alt="AIRES-AI"/>
+
+**AI Intelligent Emergency Response System**
+
+An emergency response decision-support system using real Trichy OpenStreetMap road data. Includes ambulance routing, hospital selection, simulated road disruptions, and live route updates through WebSockets.
 
 `Python` `FastAPI` `WebSocket` `OpenStreetMap`
 
-### 🛡️ [ROGERS](https://github.com/ajeem-suban/ROGERS)
+[↗ Explore AIRES-AI](https://github.com/ajeem-suban/AIRES-AI)
+
+---
+
+### <img src="https://img.shields.io/badge/03-ROGERS-2563EB?style=for-the-badge&logo=shield&logoColor=white" alt="ROGERS"/>
 
 **AI Student Project Orchestrator**
 
-An AI-powered software engineering platform designed to help students transform project ideas into structured software. It supports research, requirements, architecture, implementation, testing, debugging, and human approval workflows.
+An AI-powered software engineering platform designed to help students transform project ideas into structured software. Supports research, requirements, architecture, implementation, testing, debugging, and human approval workflows.
 
-*Actively under development.*
+<sub>⚡ Actively under development</sub>
 
-`Python` `FastAPI` `React` `TypeScript` `AI Agents`
+`Python` `FastAPI` `React` `TypeScript` `AI Orchestration`
 
-### 🧠 [SECRAIN](https://github.com/ajeem-suban/SECRAIN)
+[↗ Explore ROGERS](https://github.com/ajeem-suban/ROGERS)
+
+---
+
+### <img src="https://img.shields.io/badge/04-SECRAIN-8B5CF6?style=for-the-badge&logo=brain&logoColor=white" alt="SECRAIN"/>
 
 **Local-First AI Productivity & Knowledge Management**
 
-A personal second-brain platform combining AI chat, persistent conversations, notes, and intelligent note retrieval with local AI integration through Ollama.
+A personal second-brain platform combining AI chat, knowledge management, and intelligent retrieval with a local-first architecture.
 
-`Python` `FastAPI` `React` `SQLite` `Ollama`
+`Python` `FastAPI` `React` `SQLite` `ChromaDB` `Ollama`
 
-### ◆ [CULLINAN](https://github.com/ajeem-suban/cullinan-ai)
+[↗ Explore SECRAIN](https://github.com/ajeem-suban/SECRAIN)
 
-**Local AI & Computer Vision Experiments**
+---
 
-An experimental privacy-conscious project focused on facial analysis, face detection, facial embedding extraction, and identity-comparison utilities. Personalized image generation remains a future goal.
+### <img src="https://img.shields.io/badge/05-CULLINAN-F59E0B?style=for-the-badge&logo=aperture&logoColor=white" alt="CULLINAN"/>
 
-*Real-world recognition accuracy is not yet validated.*
+**Personal AI & Computer Vision Experiments**
+
+An experimental local AI project focused on face detection, facial analysis, embedding extraction, and identity-comparison utilities. Personalized image generation is a future development goal.
+
+<sub>🔬 Recognition accuracy is still being evaluated.</sub>
 
 `Python` `InsightFace` `ONNX Runtime` `OpenCV` `NumPy`
 
-### 🎙️ [TITAN ASSISTANT](https://github.com/ajeem-suban/TITAN-ASSISTANT)
-
-**Voice-First Personal Assistant**
-
-A voice-first assistant that uses speech recognition, deterministic command routing, and LLM fallback for open-ended interactions. Core command paths are designed to remain useful without requiring every request to go through an LLM.
-
-`Python` `faster-whisper` `WebRTC VAD` `Groq` `pyttsx3`
+[↗ Explore CULLINAN](https://github.com/ajeem-suban/cullinan-ai)
 
 ---
 
-## `03 / TECHNOLOGY STACK`
+### <img src="https://img.shields.io/badge/06-TITAN%20ASSISTANT-F97316?style=for-the-badge&logo=voiceover&logoColor=white" alt="TITAN Assistant"/>
 
-**Languages**
+**Voice-First Personal AI Assistant**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+A personal assistant project focused on voice-based interaction, understanding user commands, and connecting conversational AI with practical assistant workflows.
 
-**AI & Machine Learning**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square)
-
-**Backend & Frontend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-**Developer Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+[↗ Explore TITAN ASSISTANT](https://github.com/ajeem-suban/TITAN-ASSISTANT)
 
 ---
 
-## `04 / CURRENT FOCUS`
+## 🧰 TECHNOLOGY & TOOLS
 
-- Developing ROGERS into a capable AI software engineering orchestrator.
-- Improving Tamil semantic search and language technology through TAMIL-AI.ME.
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,ts,js" alt="Programming languages"/>
+
+### AI / ML / Data
+
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="AI and machine learning tools"/>
+
+### Backend / Frontend
+
+<img src="https://skillicons.dev/icons?i=fastapi,react,vite,sqlite" alt="Backend and frontend technologies"/>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Development tools"/>
+
+</div>
+
+---
+
+## 📊 GITHUB ACTIVITY
+
+<div align="center">
+
+### Commit Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajeem-suban&bg_color=0b1020&color=38bdf8&line=8b5cf6&point=f59e0b&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="100%" alt="GitHub commit activity graph"/>
+
+### Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=ajeem-suban&theme=tokyonight&hide_border=true&background=0B1020&ring=8B5CF6&fire=F59E0B&currStreakLabel=38BDF8" width="100%" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🎯 CURRENT FOCUS
+
+- Building ROGERS into a capable AI software engineering orchestrator.
+- Improving Tamil language technology through TAMIL-AI.ME.
 - Exploring local AI, computer vision, and personalized AI systems.
-- Strengthening practical AI/ML engineering and software development skills.
+- Strengthening practical AI/ML engineering skills.
 
 ---
 
-## `05 / EDUCATION`
+## 🎓 EDUCATION
 
 **B.Tech — Artificial Intelligence and Data Science**
 
 Dhanalakshmi Srinivasan University
 
-Expected Graduation: **2028**
+**Expected Graduation: 2028**
 
 ---
 
-## `06 / LET'S CONNECT`
-
-Interested in AI/ML engineering, useful AI products, open-source development, and meaningful technical collaborations.
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://ajeem-suban.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeem-suban/)
-[![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-Explore-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/AJEEM-SUBAN)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0891b2,50:312e81,100:111827&section=footer" width="100%" alt="Footer banner"/>
 
-**BUILDING · LEARNING · EXPERIMENTING · IMPROVING**
+### LET'S BUILD SOMETHING MEANINGFUL.
 
-*One system at a time.*
+**BUILD · LEARN · EXPERIMENT · IMPROVE**
+
+[Portfolio](https://ajeem-suban.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ajeem-suban/) · [Hugging Face](https://huggingface.co/AJEEM-SUBAN)
 
 </div>

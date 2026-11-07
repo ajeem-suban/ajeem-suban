@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,45:312e81,100:0891b2&text=AJEEM%20SUBAN&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20DEVELOPER&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Ajeem Suban banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:111827,45:312e81,100:0891b2&amp;text=AJEEM%20SUBAN&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20DATA%20SCIENCE%20DEVELOPER&amp;descSize=17&amp;descAlignY=58&amp;animation=fadeIn" width="100%" alt="Ajeem Suban banner"/>
 
 </div>
 
@@ -39,7 +39,7 @@ I enjoy building practical AI systems, experimenting with emerging technologies,
 
 _Different ideas. Different challenges. One continuous journey of building._
 
-### <img src="https://img.shields.io/badge/01-TAMIL--AI.ME-0D9488?style=for-the-badge&logo=bookstack&logoColor=white" alt="TAMIL-AI.ME"/>
+### ![TAMIL-AI.ME](https://img.shields.io/badge/01-TAMIL--AI.ME-0D9488?style=for-the-badge&logo=bookstack&logoColor=white)
 
 **Tamil Literature Intelligence Platform**
 
@@ -51,7 +51,7 @@ A Tamil-first platform for semantic search across classical Tamil literature, tr
 
 ---
 
-### <img src="https://img.shields.io/badge/02-AIRES--AI-EF4444?style=for-the-badge&logo=ambulance&logoColor=white" alt="AIRES-AI"/>
+### ![AIRES-AI](https://img.shields.io/badge/02-AIRES--AI-EF4444?style=for-the-badge&logo=ambulance&logoColor=white)
 
 **AI Intelligent Emergency Response System**
 
@@ -63,7 +63,7 @@ An emergency response decision-support system using real Trichy OpenStreetMap ro
 
 ---
 
-### <img src="https://img.shields.io/badge/03-ROGERS-2563EB?style=for-the-badge&logo=shield&logoColor=white" alt="ROGERS"/>
+### ![ROGERS](https://img.shields.io/badge/03-ROGERS-2563EB?style=for-the-badge&logo=shield&logoColor=white)
 
 **AI Student Project Orchestrator**
 
@@ -77,7 +77,7 @@ An AI-powered software engineering platform designed to help students transform 
 
 ---
 
-### <img src="https://img.shields.io/badge/04-SECRAIN-8B5CF6?style=for-the-badge&logo=brain&logoColor=white" alt="SECRAIN"/>
+### ![SECRAIN](https://img.shields.io/badge/04-SECRAIN-8B5CF6?style=for-the-badge&logo=brain&logoColor=white)
 
 **Local-First AI Productivity & Knowledge Management**
 
@@ -89,7 +89,7 @@ A personal second-brain platform combining AI chat, knowledge management, and in
 
 ---
 
-### <img src="https://img.shields.io/badge/05-CULLINAN-F59E0B?style=for-the-badge&logo=aperture&logoColor=white" alt="CULLINAN"/>
+### ![CULLINAN](https://img.shields.io/badge/05-CULLINAN-F59E0B?style=for-the-badge&logo=aperture&logoColor=white)
 
 **Personal AI & Computer Vision Experiments**
 
@@ -103,7 +103,7 @@ An experimental local AI project focused on face detection, facial analysis, emb
 
 ---
 
-### <img src="https://img.shields.io/badge/06-TITAN%20ASSISTANT-F97316?style=for-the-badge&logo=voiceover&logoColor=white" alt="TITAN Assistant"/>
+### ![TITAN ASSISTANT](https://img.shields.io/badge/06-TITAN%20ASSISTANT-F97316?style=for-the-badge&logo=voiceover&logoColor=white)
 
 **Voice-First Personal AI Assistant**
 
@@ -141,13 +141,13 @@ A personal assistant project focused on voice-based interaction, understanding u
 
 <div align="center">
 
-### Commit Activity
+### Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajeem-suban&bg_color=0b1020&color=38bdf8&line=8b5cf6&point=f59e0b&area=true&hide_border=true&custom_title=My%20Contribution%20Journey" width="100%" alt="GitHub commit activity graph"/>
-
-### Contribution Streak
-
-<img src="https://streak-stats.demolab.com?user=ajeem-suban&theme=tokyonight&hide_border=true&background=0B1020&ring=8B5CF6&fire=F59E0B&currStreakLabel=38BDF8" width="100%" alt="GitHub contribution streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajeem-suban/ajeem-suban/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajeem-suban/ajeem-suban/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ajeem-suban/ajeem-suban/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
@@ -174,7 +174,7 @@ Dhanalakshmi Srinivasan University
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0891b2,50:312e81,100:111827&section=footer" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=130&amp;color=0:0891b2,50:312e81,100:111827&amp;section=footer" width="100%" alt="Footer banner"/>
 
 ### LET'S BUILD SOMETHING MEANINGFUL.
 

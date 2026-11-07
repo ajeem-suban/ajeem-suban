@@ -1,10 +1,8 @@
- <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=230&amp;color=0:111827,45:312e81,100:0891b2&amp;text=AJEEM%20SUBAN&amp;fontSize=48&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=AI%20%26%20DATA%20SCIENCE%20DEVELOPER&amp;descSize=17&amp;descAlignY=58&amp;animation=fadeIn" width="100%" alt="Ajeem Suban banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,45:312e81,100:0891b2&text=AJEEM.S&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20AND%20DATA%20SCIENCE%20DEVELOPER&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="AJEEM.S banner"/>
 
 </div>
-
-<div align="center">
 
 ### BUILDING INTELLIGENT SYSTEMS. EXPLORING WHAT'S NEXT.
 
